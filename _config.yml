@@ -1,6 +1,18 @@
 title: "Zombie Outbreak Community"
 
-theme: minima
+author:
+  name: Zombie Outbreak
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  The Zombie Outbreak community site, more coming soon. For now check out the polls and some sneak peaks at the wiki pages that will start appearing in time.
+
+# theme: minima
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# add a line comment on "theme: minima" above.
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
