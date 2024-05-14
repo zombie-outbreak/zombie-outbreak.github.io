@@ -1,4 +1,7 @@
-## Poll 1 Write Up
+---
+title: Poll 1 Write Up
+---
+
 A while ago I sent out a poll for the community to fill in. After some time and a few responses I have recently been able to go through the results and I will now talk about them and how I will act on the results, or my general thoughts about each topic covered by the first poll as some questions were more about getting general opinions on aspects of the server to gauge community sentiment.
 
 ## Question 1
