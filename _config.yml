@@ -1,1 +1,6 @@
 title: "Zombie Outbreak Community"
+
+theme: minima
+
+minima:
+  skin: dark
