@@ -11,7 +11,7 @@ The first public test will be contained to the Bayside area, are you okay with t
 | 77% | 0% | 23% |
 
 ### Other Responses
-| Yes |
+| Response |
 | ------ |
 | Bayside and El Q |
 | I prefer other areas but it doesn't really matter this much |
