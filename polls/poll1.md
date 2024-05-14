@@ -1,4 +1,3 @@
-# Community Poll 1
 A while ago I sent out a poll for the community to fill in. After some time and a few responses I have recently been able to go through the results and I will now talk about them and how I will act on the results.
 
 ## Question 1
