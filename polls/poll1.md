@@ -108,7 +108,7 @@ Would be you be interested in assisting development in any of the following area
 ## Developer Response
 A few... interesting responses, also hi Logan!
 
-The popular options are Mapping and Lore Writing. Lore Writing comes out in front by a long way, which is good. I want to have some solid unique lore for the server.
+The popular options are Beta Testing and Lore Writing. Beta Testing comes out on top which is great because that's going to be one of the most important aspects of early development.
 
 ## Question 7
 Would you be open to the idea of the playable area being the whole of San Andreas in the future?*
