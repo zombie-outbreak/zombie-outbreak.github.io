@@ -25,9 +25,9 @@ So why ask this question? I wanted to get the general feeling around the idea of
 ## Question 2
 How many characters should each account be able to make?
 
-| 1 | 2 | 3 | 4 | 5 |
-| ------ | ------ | ------ | ------ | ------ |
-| 22% | 11% | 0% | 22% | 22% | 22% |
+| 1 | 2 | 3 | 4 | 5 | Other |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 22% | 12% | 0% | 22% | 22% | 22% |
 
 ### Other Responses
 - 2 for normal players & 5 for donors
