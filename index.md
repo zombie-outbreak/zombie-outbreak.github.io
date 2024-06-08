@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# !Under Construction!
+## !Under Construction!
 This site is under construction and is either unfinished or outdated.
 
 Go to our [Discord](https://discord.gg/4J9KGyspU5) or play ZOTDM: 51.195.144.84:7782
